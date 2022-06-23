@@ -28,7 +28,7 @@ spec:
     namespace: apps
   project: default
   source:
-    repoURL: ssh://git@github.com/squer-solutions/infrastructure-provisioning-workshop.git
+    repoURL: ssh://git@github.com/KreMat/infrastructure-provisioning-workshop-1.git
     targetRevision: level3
     path: $CLUSTER_NAME/furnishing
   syncPolicy:
